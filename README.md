@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kenny (@Kennyyy-lz)
+- 👀 I’m interested in Computer Science + Software Engineering
+- 🌱 I’m currently learning C++ (1st), Python (2nd)
